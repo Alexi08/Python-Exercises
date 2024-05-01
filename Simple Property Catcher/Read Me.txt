@@ -1,7 +1,7 @@
-Simple program created to assist me and my partner look for new properties that come up within a specific area.
-The purpose was to run this daily to be notified of any new properties
+Simple program created to assist me and my partner in looking for new properties that come up within a specific area.
+ The purpose was to run this daily to be notified of any new properties.
 
-The program works by sending an email of all scapped property listings containing:
+The program works by sending an email of all scraped property listings containing:
 	- The name
 	- Price
 	- Link to address
