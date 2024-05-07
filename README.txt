@@ -1,0 +1,4 @@
+Many of my projects through courses have not been added as they are simple 2-3 hour long projecs more centered around mastering the fundementals of Python.
+If you would like to view them, please do not hesitate to contact me directly and I can showcase them.
+
+Most of the projects on this repository are more notable projects created OR ones I enjoyed making/using the most.
